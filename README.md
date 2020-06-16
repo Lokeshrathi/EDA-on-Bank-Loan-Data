@@ -20,6 +20,8 @@ After reading the data, following changes were done
 ## Missing values
 Dropping unnecessary columns and columns with more 70% of missing values and filling missing values.
 - Let's drop the columns with more than 30% missing values(since the data is already huge).
+- Since there is no much spread of data and the difference between mean and median is very small, let's impute the missing  values with mean for column: *revol_util*.
+ 
 ---
 ##  Analysis for number of loan issued
 ![](/images/SC1.png)
