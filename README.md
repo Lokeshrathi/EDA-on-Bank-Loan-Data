@@ -5,7 +5,7 @@ based on employment, state, loan_puprose and other metrics have been depicted.
 
 
 ##  Analysis for number of loan issued
-![](/Desktop/SC1.png)
+![](/download/SC1.png)
 1) From above plots, it shows that more number of loans were from B,A and C grade's and least from G grade.
 2) From Sub grades A4, B3 have more number of loans.
 3) From 3rd plot, it shows that A,B,C grade loans have less interest rate and E,F,G have high interest rate. From 1st, 2nd plots there are more number of loans from A,B,C grade(granularity check from sub-grades). It might be the reason that the loan applicant's from A,B,C grades have better credit score and lower risk.
