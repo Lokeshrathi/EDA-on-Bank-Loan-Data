@@ -3,6 +3,11 @@ This Analysis report shows Online Loan study, where multiple derivations based o
 based on employment, state, loan_puprose and other metrics have been depicted.
 Data shape - **39717 columns and 111 rows**
 
+| Code |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 ---
 
 ## Code and Resources used
