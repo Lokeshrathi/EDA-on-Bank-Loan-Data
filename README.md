@@ -1,7 +1,6 @@
 # Investment-Study-
-This Analysis report shows Online Loan study, where multiple derivations based on Return of Investment,Loan Defaulted, Number of loans issued
-based on employment, state, loan_puprose and other metrics have been depicted.
-Data shape - **39717 columns and 111 rows**
+- This Analysis report shows Online Loan study, where multiple derivations based on Return of Investment,Loan Defaulted, Number of loans issued based on employment, state, loan_puprose and other metrics have been depicted.
+- Data shape - **39717 columns and 111 rows**
 
 ---
 
