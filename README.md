@@ -53,3 +53,10 @@ We see that the majority of borrowers have been employed for at least 10 years.
 4) Majority of loans were from A, B, and C grade.
 5) There is an inverse relationship between interest rate and loan grade - lower grades(E,F,G) have higher interest rate.
 6) Overall, there are more defaulters from 'debt_consolidation', 'others', 'credit_card' and 'small_business' purpose loans from all grades.
+
+## Inspiration:
+- This repo will give you everything required to understand Data Exploration as a beginner.
+- From Data Cleaning, Data preprocessing, Data Visualisation you will have an excellent overview with multiple cases.
+- Working on Categorical datatype, Numerical datatype, this will be your goto guide for EDA. 
+
+### Hope you Like my work here, do Upvote and Fork this repo for your own Good!
